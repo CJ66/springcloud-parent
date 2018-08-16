@@ -1,0 +1,12 @@
+security:
+  oauth2:
+    resource:
+      token-info-uri: http://localhost:5555/oauth/check_token
+    client:
+          client-id: clientId
+          client-secret: secretId
+          user-authorization-uri: http://localhost:5555/oauth/authorize
+          access-token-uri: http://localhost:5555/oauth/token
+          grant-type: password
+  user:
+    password: password

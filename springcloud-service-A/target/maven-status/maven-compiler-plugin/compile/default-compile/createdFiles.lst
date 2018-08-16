@@ -1,0 +1,6 @@
+com\emrubik\springcloud\server\web\ConsumerController.class
+com\emrubik\springcloud\server\ComputeServiceApplication.class
+com\emrubik\springcloud\server\web\service\ComputeClient.class
+com\emrubik\springcloud\server\web\ProperitesController.class
+com\emrubik\springcloud\server\web\service\ComputeClientHystrix.class
+com\emrubik\springcloud\server\WebSecurityConfig.class
